@@ -1,0 +1,36 @@
+.top{
+  text-align: center;
+}
+.middle{
+  margin: 30px;
+  margin-left: 800px;
+  font-weight:bold;
+
+}
+.submit{
+  width: 150px;
+  font-size: 25px;
+  margin-left: 100px;
+  color: red;
+  background-color: #80d4ff;
+}
+body{
+  background-image:
+  url("https://media.gettyimages.com/photos/high-school-boy-studying-at-library-picture-id619535232?s=2048x2048");
+  background-attachment: fixed;
+   background-size: 100%;
+}
+h1{
+  color: #00ff00;
+  font-family: 'Lobster', cursive;
+  font-weight: normal;
+  text-decoration: underline;
+}
+h2{
+  color: #000066;
+  margin-left: 580px;
+}
+.total{
+  color: yellow;
+  font-size: 20px;
+}
